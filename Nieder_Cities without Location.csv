@@ -1,0 +1,840 @@
+,Unnamed: 0,Unnamed: 0.1,Unnamed: 0.1.1,Name,Status,County,PopulationEstimate1995-12-31,PopulationEstimate2001-12-31,PopulationCensus2011-05-09,PopulationEstimate2019-12-31,Unnamed: 7
+0,0,0,0.0,Achim,City,Verden,30050.0,29681.0,29531.0,31923.0,→
+1,1,1,1.0,Adelebsen,Small Town,Göttingen,7184.0,7079.0,6564.0,6245.0,→
+2,2,2,2.0,Adelheidsdorf,Commune,Celle,2164.0,2513.0,2453.0,2641.0,→
+3,3,3,3.0,Adenbüttel,Commune,Gifhorn,1485.0,1700.0,1759.0,1787.0,→
+4,4,4,4.0,Adendorf,Commune,Lüneburg,9290.0,9714.0,10188.0,10853.0,→
+5,5,5,5.0,Aerzen,Small Town,Hameln-Pyrmont,12057.0,12056.0,10945.0,10524.0,→
+6,6,6,6.0,Affinghausen,Commune,Diepholz,941.0,977.0,852.0,843.0,→
+7,7,7,7.0,Agathenburg,Commune,Stade,1008.0,1014.0,1160.0,1290.0,→
+8,8,8,8.0,Ahausen,Commune,Rotenburg (Wümme),1527.0,1770.0,1824.0,1912.0,→
+9,9,9,9.0,Ahlden (Aller),Small Town,Heidekreis,1404.0,1496.0,1552.0,1552.0,→
+10,10,10,10.0,Ahlerstedt,Commune,Stade,4594.0,4973.0,5050.0,5451.0,→
+11,11,11,11.0,Ahnsbeck,Commune,Celle,1407.0,1627.0,1649.0,1619.0,→
+12,12,12,12.0,Ahnsen,Commune,Schaumburg,1131.0,1191.0,1111.0,1018.0,→
+13,13,13,13.0,Alfeld (Leine),City,Hildesheim,22413.0,21778.0,19443.0,18535.0,→
+14,14,14,14.0,Alfhausen,Commune,Osnabrück,3512.0,3658.0,3769.0,4012.0,→
+15,15,15,15.0,Alfstedt,Commune,Rotenburg (Wümme),808.0,858.0,868.0,852.0,→
+16,16,16,16.0,Algermissen,Commune,Hildesheim,7336.0,8241.0,8007.0,7918.0,→
+17,17,17,17.0,Altenmedingen,Commune,Uelzen,1596.0,1639.0,1547.0,1469.0,→
+18,18,18,18.0,Amelinghausen,Commune,Lüneburg,3309.0,3738.0,3959.0,4039.0,→
+19,19,19,19.0,Amt Neuhaus,Commune,Lüneburg,5870.0,5627.0,4857.0,4965.0,→
+20,20,20,20.0,Anderlingen,Commune,Rotenburg (Wümme),878.0,943.0,896.0,829.0,→
+21,21,21,21.0,Andervenne,Commune,Emsland,853.0,906.0,870.0,894.0,→
+22,22,22,22.0,Ankum,Commune,Osnabrück,6596.0,7107.0,7140.0,7568.0,→
+23,23,23,23.0,Apelern,Commune,Schaumburg,2587.0,2667.0,2524.0,2415.0,→
+24,24,24,24.0,Apen,Commune,Ammerland,10117.0,10753.0,11127.0,11692.0,→
+25,25,25,25.0,Apensen,Commune,Stade,2865.0,2922.0,3546.0,4351.0,→
+26,26,26,26.0,Appel,Commune,Harburg,1588.0,1795.0,1825.0,2006.0,→
+27,27,27,27.0,Arholzen,Commune,Holzminden,443.0,464.0,408.0,400.0,→
+28,28,28,28.0,Armstorf,Commune,Cuxhaven,672.0,634.0,616.0,652.0,→
+29,29,29,29.0,Artlenburg,Small Town,Lüneburg,1356.0,1619.0,1590.0,1707.0,→
+30,30,30,30.0,Asendorf,Commune,Diepholz,3123.0,3059.0,3061.0,2975.0,→
+31,31,31,31.0,Asendorf,Commune,Harburg,1559.0,1697.0,1898.0,1972.0,→
+32,32,32,32.0,Auetal,Commune,Schaumburg,6476.0,6530.0,6506.0,6202.0,→
+33,33,33,33.0,Auhagen,Commune,Schaumburg,1354.0,1354.0,1283.0,1227.0,→
+34,34,34,34.0,Aurich,City,Aurich,39519.0,40362.0,40699.0,42040.0,→
+35,35,35,35.0,Axstedt,Commune,Osterholz,1216.0,1163.0,1117.0,1192.0,→
+36,36,36,36.0,Bad Bentheim,City,Grafschaft Bentheim,14319.0,14817.0,15083.0,15609.0,→
+37,37,37,37.0,Badbergen,Commune,Osnabrück,4343.0,4531.0,4421.0,4577.0,→
+38,38,38,38.0,Bad Bevensen,City,Uelzen,8767.0,8796.0,8738.0,9248.0,→
+39,39,39,39.0,Bad Bodenteich,Small Town,Uelzen,3803.0,3987.0,3784.0,3741.0,→
+40,40,40,40.0,Baddeckenstedt,Commune,Wolfenbüttel,2946.0,2980.0,3084.0,3073.0,→
+41,41,41,41.0,Bad Eilsen,Commune,Schaumburg,2277.0,2386.0,2427.0,2563.0,→
+42,42,42,42.0,Bad Essen,Commune,Osnabrück,14876.0,15575.0,15120.0,15738.0,→
+43,43,43,43.0,Bad Fallingbostel,City,Heidekreis,11753.0,11749.0,10878.0,11926.0,→
+44,44,44,44.0,Bad Gandersheim,City,Northeim,11555.0,11273.0,10038.0,9623.0,→
+45,45,45,45.0,Bad Grund (Harz),Commune,Göttingen,10341.0,9712.0,9019.0,8238.0,→
+46,46,46,46.0,Bad Harzburg,City,Goslar,23599.0,23021.0,22033.0,21926.0,→
+47,47,47,47.0,Bad Iburg,City,Osnabrück,11371.0,11681.0,10555.0,10636.0,→
+48,48,48,48.0,Bad Laer,Commune,Osnabrück,7893.0,9092.0,9183.0,9110.0,→
+49,49,49,49.0,Bad Lauterberg im Harz,City,Göttingen,12901.0,12079.0,10956.0,10265.0,→
+50,50,50,50.0,Bad Münder am Deister,City,Hameln-Pyrmont,19274.0,18877.0,17670.0,17445.0,→
+51,51,51,51.0,Bad Nenndorf,City,Schaumburg,9788.0,10135.0,10105.0,11226.0,→
+52,52,52,52.0,Bad Pyrmont,City,Hameln-Pyrmont,23180.0,22100.0,19128.0,19130.0,→
+53,53,53,53.0,Bad Rothenfelde,Commune,Osnabrück,6236.0,6990.0,7486.0,8470.0,→
+54,54,54,54.0,Bad Sachsa,City,Göttingen,8804.0,8424.0,7669.0,7372.0,→
+55,55,55,55.0,Bad Salzdetfurth,City,Hildesheim,14188.0,14528.0,13353.0,13139.0,→
+56,56,56,56.0,Bad Zwischenahn,Commune,Ammerland,24362.0,25826.0,27437.0,28896.0,→
+57,57,57,57.0,Bahrdorf,Commune,Helmstedt,2124.0,2152.0,1902.0,1825.0,→
+58,58,58,58.0,Bahrenborstel,Commune,Diepholz,1252.0,1260.0,1162.0,1105.0,→
+59,59,59,59.0,Bakum,Commune,Vechta,5210.0,5585.0,5885.0,6475.0,→
+60,60,60,60.0,Balge,Commune,Nienburg (Weser),1825.0,1889.0,1832.0,1718.0,→
+61,62,62,62.0,Baltrum,Commune,Aurich,528.0,541.0,561.0,604.0,→
+62,63,63,63.0,Bardowick,Small Town,Lüneburg,4848.0,5652.0,6453.0,7013.0,→
+63,64,64,64.0,Barenburg,Small Town,Diepholz,1262.0,1328.0,1247.0,1239.0,→
+64,67,67,67.0,Barnstedt,Commune,Lüneburg,651.0,792.0,759.0,726.0,→
+65,68,68,68.0,Barnstorf,Small Town,Diepholz,5869.0,6003.0,6129.0,6465.0,→
+66,69,69,69.0,Barsinghausen,City,Region Hannover,34643.0,34408.0,33053.0,34187.0,→
+67,70,70,70.0,Barßel,Commune,Cloppenburg,11759.0,12431.0,12426.0,13039.0,→
+68,73,73,73.0,Barver,Commune,Diepholz,1139.0,1123.0,1041.0,1080.0,→
+69,74,74,74.0,Barwedel,Commune,Gifhorn,967.0,1081.0,1025.0,1020.0,→
+70,75,75,75.0,Basdahl,Commune,Rotenburg (Wümme),1418.0,1475.0,1440.0,1369.0,→
+71,76,76,76.0,Bassum,City,Diepholz,15055.0,16132.0,15502.0,15964.0,→
+72,77,77,77.0,Bawinkel,Commune,Emsland,2253.0,2271.0,2334.0,2481.0,→
+73,78,78,78.0,Beckdorf,Commune,Stade,2209.0,2362.0,2626.0,2660.0,→
+74,79,79,79.0,Beckedorf,Commune,Schaumburg,1510.0,1573.0,1491.0,1456.0,→
+75,80,80,80.0,Beckeln,Commune,Oldenburg,809.0,835.0,795.0,760.0,→
+76,81,81,81.0,Beedenbostel,Commune,Celle,1040.0,1072.0,1001.0,1015.0,→
+77,82,82,82.0,Beesten,Commune,Emsland,1634.0,1653.0,1630.0,1602.0,→
+78,83,83,83.0,Beierstedt,Commune,Helmstedt,468.0,479.0,426.0,352.0,→
+79,84,84,84.0,Belm,Commune,Osnabrück,14359.0,14017.0,13416.0,13788.0,→
+80,85,85,85.0,Belum,Commune,Cuxhaven,949.0,896.0,853.0,812.0,→
+81,86,86,86.0,Bendestorf,Commune,Harburg,2030.0,2180.0,2248.0,2354.0,→
+82,89,89,89.0,Bergen an der Dumme,Small Town,Lüchow-Dannenberg,1645.0,1573.0,1595.0,1428.0,→
+83,90,90,90.0,Bergfeld,Commune,Gifhorn,791.0,956.0,906.0,894.0,→
+84,92,92,92.0,Bersenbrück,City,Osnabrück,7391.0,7762.0,7787.0,8618.0,→
+85,93,93,93.0,Berumbur,Commune,Aurich,2230.0,2489.0,2575.0,2773.0,→
+86,94,94,94.0,Betzendorf,Commune,Lüneburg,994.0,1064.0,1162.0,1113.0,→
+87,95,96,96.0,Beverstedt,Commune,Cuxhaven,13365.0,14332.0,13725.0,13545.0,→
+88,96,97,97.0,Bienenbüttel,Commune,Uelzen,5717.0,6672.0,6663.0,6711.0,→
+89,97,98,98.0,Bilshausen,Commune,Göttingen,2444.0,2487.0,2354.0,2190.0,→
+90,98,99,99.0,Binnen,Commune,Nienburg (Weser),952.0,1043.0,1007.0,1011.0,→
+91,99,100,100.0,Bippen,Commune,Osnabrück,2965.0,3071.0,2963.0,2932.0,→
+92,100,101,101.0,Bispingen,Commune,Heidekreis,5664.0,6089.0,6273.0,6410.0,→
+93,101,102,102.0,Bissendorf,Commune,Osnabrück,13498.0,14221.0,14331.0,14630.0,→
+94,102,103,103.0,Bleckede,City,Lüneburg,9084.0,9657.0,9540.0,9471.0,→
+95,103,104,104.0,Blender,Commune,Verden,2438.0,2909.0,2912.0,2885.0,→
+96,104,105,105.0,Bliedersdorf,Commune,Stade,1522.0,1640.0,1691.0,1781.0,→
+97,105,106,106.0,Blomberg,Commune,Wittmund,1285.0,1429.0,1656.0,1859.0,→
+98,106,107,107.0,Bockenem,City,Hildesheim,11631.0,11375.0,10144.0,9855.0,→
+99,108,109,109.0,Bockhorst,Commune,Emsland,968.0,1004.0,998.0,959.0,→
+100,109,110,110.0,Bodenfelde,Small Town,Northeim,3934.0,3707.0,3337.0,3039.0,→
+101,111,112,112.0,Bodenwerder,City,Holzminden,6317.0,6294.0,5753.0,5573.0,→
+102,112,113,113.0,Boffzen,Commune,Holzminden,3190.0,3126.0,2894.0,2718.0,→
+103,113,114,114.0,Böhme,Commune,Heidekreis,924.0,983.0,908.0,939.0,→
+104,114,115,115.0,Bohmte,Commune,Osnabrück,12352.0,13280.0,12738.0,12687.0,→
+105,115,116,116.0,Boitze,Commune,Lüneburg,403.0,447.0,398.0,374.0,→
+106,116,117,117.0,Bokensdorf,Commune,Gifhorn,678.0,861.0,977.0,1298.0,→
+107,117,118,118.0,Bomlitz,Commune,Heidekreis,6988.0,7172.0,7061.0,7040.0,→
+108,118,119,119.0,Börger,Commune,Emsland,2570.0,2698.0,2692.0,2794.0,→
+109,120,121,121.0,Börßum,Commune,Wolfenbüttel,2983.0,3093.0,2885.0,2784.0,→
+110,122,123,123.0,Bösel,Commune,Cloppenburg,6870.0,7226.0,7431.0,8224.0,→
+111,123,124,124.0,Bötersen,Commune,Rotenburg (Wümme),926.0,1012.0,1062.0,1077.0,→
+112,125,126,126.0,Bovenden,Small Town,Göttingen,13336.0,13351.0,13257.0,13651.0,→
+113,126,127,127.0,Brackel,Commune,Harburg,1508.0,1638.0,1746.0,1908.0,→
+114,127,128,128.0,Brake (Unterweser),City,Wesermarsch,16713.0,16416.0,15019.0,14860.0,→
+115,128,129,129.0,Bramsche,City,Osnabrück,30724.0,31030.0,30158.0,31141.0,→
+116,129,130,130.0,Braunlage,City,Goslar,8633.0,7689.0,6252.0,5795.0,→
+117,130,131,131.0,Braunschweig,County-level City,Braunschweig,252544.0,245516.0,242537.0,249406.0,→
+118,131,132,132.0,Breddenberg,Commune,Emsland,648.0,764.0,765.0,800.0,→
+119,132,133,133.0,Breddorf,Commune,Rotenburg (Wümme),1136.0,1201.0,1088.0,1019.0,→
+120,133,134,134.0,Bremervörde,City,Rotenburg (Wümme),19004.0,19386.0,18808.0,18582.0,→
+121,135,136,136.0,Brevörde,Commune,Holzminden,868.0,796.0,694.0,595.0,→
+122,136,137,137.0,Brietlingen,Commune,Lüneburg,2191.0,2942.0,3333.0,3532.0,→
+123,137,138,138.0,Brinkum,Commune,Leer,615.0,682.0,697.0,803.0,→
+124,138,139,139.0,Bröckel,Commune,Celle,1540.0,1790.0,1787.0,1871.0,→
+125,139,140,140.0,Brockel,Commune,Rotenburg (Wümme),1122.0,1314.0,1342.0,1363.0,→
+126,140,141,141.0,Brockum,Commune,Diepholz,1074.0,1069.0,1026.0,1047.0,→
+127,141,142,142.0,Brome,Small Town,Gifhorn,3092.0,3268.0,3254.0,3278.0,→
+128,142,143,143.0,Bruchhausen-Vilsen,Small Town,Diepholz,8526.0,8850.0,8857.0,9118.0,→
+129,144,145,145.0,Buchholz (Aller),Commune,Heidekreis,1487.0,1885.0,2049.0,2159.0,→
+130,145,146,146.0,Buchholz in der Nordheide,City,Harburg,34042.0,36109.0,36656.0,39729.0,→
+131,146,147,147.0,Bückeburg,City,Schaumburg,20953.0,20782.0,19252.0,19330.0,→
+132,147,148,148.0,Bücken,Small Town,Nienburg (Weser),2310.0,2282.0,2202.0,2101.0,→
+133,148,149,149.0,Bühren,Commune,Göttingen,549.0,552.0,568.0,524.0,→
+134,149,150,150.0,Bülkau,Commune,Cuxhaven,1019.0,946.0,906.0,866.0,→
+135,150,151,151.0,Bülstedt,Commune,Rotenburg (Wümme),658.0,692.0,728.0,778.0,→
+136,151,152,152.0,Bunde,Commune,Leer,7217.0,7424.0,7536.0,7675.0,→
+137,154,155,155.0,Burgwedel,City,Region Hannover,19166.0,19861.0,20278.0,20234.0,→
+138,155,156,156.0,Burweg,Commune,Stade,911.0,936.0,974.0,1017.0,→
+139,156,157,157.0,Butjadingen,Commune,Wesermarsch,6393.0,6570.0,6306.0,6049.0,→
+140,157,158,158.0,Buxtehude,City,Stade,35253.0,37086.0,39552.0,40193.0,→
+141,158,159,159.0,Cadenberge,Commune,Cuxhaven,3898.0,4152.0,4153.0,4199.0,→
+142,159,160,160.0,Calberlah,Commune,Gifhorn,4809.0,5130.0,5072.0,5115.0,→
+143,160,161,161.0,Cappeln,Commune,Cloppenburg,6011.0,6275.0,6835.0,7127.0,→
+144,161,162,162.0,Celle,City,Celle,73936.0,71949.0,69001.0,69540.0,→
+145,162,163,163.0,Clausthal-Zellerfeld,City,Goslar,20718.0,19091.0,15481.0,15727.0,→
+146,163,164,164.0,Clenze,Small Town,Lüchow-Dannenberg,2417.0,2351.0,2363.0,2276.0,→
+147,164,165,165.0,Cloppenburg,City,Cloppenburg,27795.0,30146.0,32932.0,35451.0,→
+148,165,166,166.0,Colnrade,Commune,Oldenburg,805.0,854.0,774.0,760.0,→
+149,166,167,167.0,Coppenbrügge,Small Town,Hameln-Pyrmont,8025.0,8027.0,7404.0,7040.0,→
+150,167,168,168.0,Cramme,Commune,Wolfenbüttel,890.0,948.0,941.0,849.0,→
+151,168,169,169.0,Cremlingen,Commune,Wolfenbüttel,11366.0,12508.0,12843.0,13073.0,→
+152,169,170,170.0,Cuxhaven,City,Cuxhaven,55229.0,53168.0,49093.0,48164.0,→
+153,171,172,172.0,Dahlenburg,Small Town,Lüneburg,3330.0,3423.0,3351.0,3295.0,→
+154,172,173,173.0,Dahlum,Commune,Wolfenbüttel,772.0,799.0,699.0,634.0,→
+155,174,175,175.0,Damnatz,Commune,Lüchow-Dannenberg,368.0,360.0,316.0,297.0,→
+156,175,176,176.0,Danndorf,Commune,Helmstedt,2044.0,2072.0,2096.0,2458.0,→
+157,176,177,177.0,Dannenberg,City,Lüchow-Dannenberg,8510.0,8625.0,8089.0,8181.0,→
+158,178,179,179.0,Dedelstorf,Commune,Gifhorn,1460.0,1562.0,1300.0,1181.0,→
+159,179,180,180.0,Deensen,Commune,Holzminden,1713.0,1651.0,1465.0,1342.0,→
+160,180,181,181.0,Deinste,Commune,Stade,1732.0,2117.0,2040.0,2027.0,→
+161,181,182,182.0,Deinstedt,Commune,Rotenburg (Wümme),658.0,677.0,669.0,664.0,→
+162,182,183,183.0,Delligsen,Small Town,Holzminden,9383.0,9178.0,8158.0,7762.0,→
+163,183,184,184.0,Delmenhorst,County-level City,Delmenhorst,78226.0,76284.0,73322.0,77559.0,→
+164,184,185,185.0,Denkte,Commune,Wolfenbüttel,2598.0,3156.0,3030.0,2795.0,→
+165,185,186,186.0,Derental,Commune,Holzminden,775.0,750.0,629.0,586.0,→
+166,186,187,187.0,Dersum,Commune,Emsland,1325.0,1446.0,1480.0,1443.0,→
+167,187,188,188.0,Detern,Small Town,Leer,2322.0,2547.0,2659.0,2760.0,→
+168,188,189,189.0,Dettum,Commune,Wolfenbüttel,1443.0,1361.0,1155.0,1151.0,→
+169,189,190,190.0,Deutsch Evern,Commune,Lüneburg,3257.0,3438.0,3734.0,3709.0,→
+170,190,191,191.0,Dickel,Commune,Diepholz,576.0,551.0,475.0,472.0,→
+171,191,192,192.0,Didderse,Commune,Gifhorn,1222.0,1317.0,1320.0,1316.0,→
+172,192,193,193.0,Diekholzen,Commune,Hildesheim,7169.0,6969.0,6731.0,6399.0,→
+173,193,194,194.0,Dielmissen,Commune,Holzminden,931.0,840.0,843.0,765.0,→
+174,194,195,195.0,Diepenau,Small Town,Nienburg (Weser),4059.0,4084.0,4073.0,3893.0,→
+175,195,196,196.0,Diepholz,City,Diepholz,16121.0,16378.0,15962.0,16974.0,→
+176,196,197,197.0,Dinklage,City,Vechta,11280.0,12278.0,12604.0,13095.0,→
+177,197,198,198.0,Dissen am Teutoburger Wald,City,Osnabrück,9010.0,9210.0,9260.0,9998.0,→
+178,198,199,199.0,Dohren,Commune,Harburg,866.0,987.0,1069.0,1253.0,→
+179,199,200,200.0,Dohren,Commune,Emsland,1101.0,1134.0,1084.0,1141.0,→
+180,200,201,201.0,Dollern,Commune,Stade,1796.0,1768.0,1814.0,2178.0,→
+181,201,202,202.0,Dornum,Commune,Aurich,4714.0,4681.0,4512.0,4427.0,→
+182,202,203,203.0,Dörpen,Commune,Emsland,4136.0,4644.0,4772.0,5392.0,→
+183,203,204,204.0,Dorstadt,Commune,Wolfenbüttel,684.0,692.0,668.0,692.0,→
+184,204,205,205.0,Dörverden,Commune,Verden,9456.0,9688.0,9111.0,9009.0,→
+185,205,206,206.0,Dötlingen,Commune,Oldenburg,5285.0,5925.0,6103.0,6273.0,→
+186,207,208,208.0,Drakenburg,Small Town,Nienburg (Weser),1714.0,1730.0,1740.0,1760.0,→
+187,208,209,209.0,Dransfeld,City,Göttingen,4208.0,4309.0,4329.0,4438.0,→
+188,209,210,210.0,Drebber,Commune,Diepholz,2869.0,2939.0,2928.0,2931.0,→
+189,210,211,211.0,Drentwede,Commune,Diepholz,1036.0,1051.0,1014.0,983.0,→
+190,211,212,212.0,Drestedt,Commune,Harburg,710.0,745.0,754.0,786.0,→
+191,212,213,213.0,Drochtersen,Commune,Stade,11446.0,12212.0,11345.0,11176.0,→
+192,213,214,214.0,Düdenbüttel,Commune,Stade,816.0,865.0,984.0,1062.0,→
+193,214,215,215.0,Duderstadt,City,Göttingen,23393.0,23056.0,21262.0,20363.0,→
+194,215,216,216.0,Duingen,Small Town,Hildesheim,5765.0,5685.0,5277.0,4892.0,→
+195,216,217,217.0,Dünsen,Commune,Oldenburg,1193.0,1258.0,1175.0,1156.0,→
+196,217,218,218.0,Dunum,Commune,Wittmund,1191.0,1144.0,1125.0,1086.0,→
+197,218,219,219.0,Ebergötzen,Commune,Göttingen,1932.0,1948.0,1941.0,1942.0,→
+198,220,221,221.0,Ebstorf,Small Town,Uelzen,4903.0,5444.0,5443.0,5383.0,→
+199,221,222,222.0,Echem,Commune,Lüneburg,838.0,996.0,1025.0,1058.0,→
+200,222,223,223.0,Edemissen,Commune,Peine,11563.0,12466.0,12368.0,12435.0,→
+201,223,224,224.0,Edewecht,Commune,Ammerland,17000.0,19871.0,21119.0,22453.0,→
+202,224,225,225.0,Egestorf,Commune,Harburg,2272.0,2412.0,2430.0,2686.0,→
+203,225,226,226.0,Eggermühlen,Commune,Osnabrück,1689.0,1876.0,1701.0,1723.0,→
+204,226,227,227.0,Ehra-Lessien,Commune,Gifhorn,1487.0,1595.0,1630.0,1903.0,→
+205,227,228,228.0,Ehrenburg,Commune,Diepholz,1754.0,1719.0,1535.0,1475.0,→
+206,228,229,229.0,Eickeloh,Commune,Heidekreis,720.0,789.0,768.0,794.0,→
+207,229,230,230.0,Eicklingen,Commune,Celle,2887.0,3279.0,3194.0,3205.0,→
+208,230,231,231.0,Eime,Small Town,Hildesheim,2924.0,2940.0,2719.0,2553.0,→
+209,231,232,232.0,Eimen,Commune,Holzminden,1123.0,1125.0,967.0,837.0,→
+210,232,233,233.0,Eimke,Commune,Uelzen,1003.0,1043.0,837.0,824.0,→
+211,233,234,234.0,Einbeck,City,Northeim,37782.0,36266.0,32226.0,30689.0,→
+212,235,236,236.0,Elbingerode,Commune,Göttingen,452.0,485.0,495.0,444.0,→
+213,236,237,237.0,Eldingen,Commune,Celle,2167.0,2260.0,2098.0,1996.0,→
+214,238,239,239.0,Elsfleth,City,Wesermarsch,8852.0,9207.0,9196.0,9114.0,→
+215,239,240,240.0,Elze,City,Hildesheim,9737.0,9623.0,9004.0,8989.0,→
+216,240,241,241.0,Embsen,Commune,Lüneburg,2265.0,2464.0,2667.0,2783.0,→
+217,241,242,242.0,Emden,County-level City,Emden,51559.0,51185.0,49787.0,49913.0,→
+218,242,243,243.0,Emlichheim,Commune,Grafschaft Bentheim,6381.0,6621.0,7117.0,7312.0,→
+219,243,244,244.0,Emmendorf,Commune,Uelzen,780.0,770.0,750.0,696.0,→
+220,244,245,245.0,Emmerthal,Commune,Hameln-Pyrmont,11175.0,11358.0,10188.0,9728.0,→
+221,245,246,246.0,Emsbüren,Commune,Emsland,8942.0,9565.0,9735.0,10199.0,→
+222,246,247,247.0,Emstek,Commune,Cloppenburg,9319.0,10446.0,11371.0,12254.0,→
+223,247,248,248.0,Emtinghausen,Commune,Verden,1567.0,1674.0,1551.0,1464.0,→
+224,248,249,249.0,Engden,Commune,Grafschaft Bentheim,426.0,447.0,450.0,421.0,→
+225,249,250,250.0,Engelschoff,Commune,Stade,703.0,759.0,765.0,719.0,→
+226,250,251,251.0,Erkerode,Commune,Wolfenbüttel,944.0,973.0,968.0,890.0,→
+227,251,252,252.0,Esche,Commune,Grafschaft Bentheim,536.0,549.0,576.0,579.0,→
+228,252,253,253.0,Eschede,Commune,Celle,6404.0,6469.0,6154.0,5739.0,→
+229,253,254,254.0,Eschershausen,City,Holzminden,4299.0,4081.0,3532.0,3464.0,→
+230,254,255,255.0,Esens,City,Wittmund,6561.0,6775.0,7271.0,7271.0,→
+231,255,256,256.0,Essel,Commune,Heidekreis,889.0,1079.0,1062.0,1168.0,→
+232,256,257,257.0,Essen/Oldenburg,Commune,Cloppenburg,8055.0,8267.0,8259.0,9078.0,→
+233,257,258,258.0,Esterwegen,Commune,Emsland,4854.0,5069.0,5159.0,5429.0,→
+234,258,259,259.0,Estorf,Commune,Nienburg (Weser),1812.0,1748.0,1696.0,1711.0,→
+235,259,260,260.0,Estorf,Commune,Stade,1471.0,1482.0,1421.0,1403.0,→
+236,260,261,261.0,Eversmeer,Commune,Wittmund,824.0,852.0,837.0,841.0,→
+237,261,262,262.0,Evessen,Commune,Wolfenbüttel,1297.0,1378.0,1294.0,1236.0,→
+238,262,263,263.0,Eydelstedt,Commune,Diepholz,1933.0,1947.0,1790.0,1801.0,→
+239,263,264,264.0,Eyendorf,Commune,Harburg,977.0,1103.0,1242.0,1233.0,→
+240,264,265,265.0,Eystrup,Commune,Nienburg (Weser),3106.0,3290.0,3413.0,3390.0,→
+241,265,266,266.0,Farven,Commune,Rotenburg (Wümme),691.0,738.0,670.0,608.0,→
+242,266,267,267.0,Faßberg,Commune,Celle,6813.0,7128.0,6317.0,6240.0,→
+243,267,268,268.0,Filsum,Commune,Leer,1937.0,2088.0,2100.0,2151.0,→
+244,268,269,269.0,Fintel,Commune,Rotenburg (Wümme),2653.0,2988.0,2874.0,2856.0,→
+245,269,270,270.0,Firrel,Commune,Leer,729.0,796.0,804.0,834.0,→
+246,270,271,271.0,Flöthe,Commune,Wolfenbüttel,1003.0,1221.0,1158.0,1101.0,→
+247,271,272,272.0,Frankenfeld,Commune,Heidekreis,558.0,580.0,522.0,517.0,→
+248,272,273,273.0,Fredenbeck,Commune,Stade,5045.0,5758.0,5850.0,6027.0,→
+249,273,274,274.0,Freden,Commune,Hildesheim,5813.0,5499.0,4885.0,4682.0,→
+250,275,276,276.0,Freistatt,Commune,Diepholz,813.0,815.0,569.0,473.0,→
+251,276,277,277.0,Frellstedt,Commune,Helmstedt,1005.0,915.0,833.0,797.0,→
+252,277,278,278.0,Freren,City,Emsland,5007.0,5100.0,5025.0,5085.0,→
+253,278,279,279.0,Fresenburg,Commune,Emsland,824.0,897.0,929.0,904.0,→
+254,281,282,282.0,Friesoythe,City,Cloppenburg,18907.0,20064.0,20948.0,22368.0,→
+255,282,283,283.0,Fürstenau,City,Osnabrück,9930.0,9946.0,9199.0,9407.0,→
+256,283,284,284.0,Fürstenberg,Commune,Holzminden,1313.0,1324.0,1151.0,1014.0,→
+257,284,285,285.0,Ganderkesee,Commune,Oldenburg,28895.0,30590.0,30373.0,31360.0,→
+258,285,286,286.0,Gandesbergen,Commune,Nienburg (Weser),438.0,497.0,490.0,480.0,→
+259,286,287,287.0,Garbsen,City,Region Hannover,62681.0,63271.0,59499.0,61032.0,→
+260,287,288,288.0,Garlstorf,Commune,Harburg,933.0,1001.0,1066.0,1124.0,→
+261,289,291,291.0,Gartow,Small Town,Lüchow-Dannenberg,1414.0,1455.0,1357.0,1446.0,→
+262,290,292,292.0,Geeste,Commune,Emsland,10541.0,10994.0,11251.0,11365.0,→
+263,291,293,293.0,Geestland,City,Cuxhaven,28794.0,31051.0,30683.0,30847.0,→
+264,294,296,296.0,Georgsdorf,Commune,Grafschaft Bentheim,1208.0,1295.0,1302.0,1216.0,→
+265,295,297,297.0,Georgsmarienhütte,City,Osnabrück,32909.0,32905.0,31959.0,31756.0,→
+266,297,299,299.0,Gersten,Commune,Emsland,1234.0,1177.0,1237.0,1225.0,→
+267,298,300,300.0,Getelo,Commune,Grafschaft Bentheim,656.0,670.0,560.0,531.0,→
+268,299,301,301.0,Gevensleben,Commune,Helmstedt,820.0,773.0,685.0,631.0,→
+269,300,302,302.0,Gieboldehausen,Small Town,Göttingen,4072.0,4134.0,4119.0,3988.0,→
+270,302,304,304.0,Gifhorn,City,Gifhorn,43526.0,42740.0,41152.0,42837.0,→
+271,304,306,306.0,Glandorf,Commune,Osnabrück,6451.0,6735.0,6678.0,6592.0,→
+272,305,307,307.0,Gleichen,Commune,Göttingen,9020.0,9487.0,9222.0,8831.0,→
+273,306,308,308.0,Gnarrenburg,Commune,Rotenburg (Wümme),9116.0,9444.0,9318.0,9187.0,→
+274,307,309,309.0,Gödenstorf,Commune,Harburg,848.0,936.0,922.0,975.0,→
+275,308,310,310.0,Göhrde,Commune,Lüchow-Dannenberg,728.0,720.0,630.0,582.0,→
+276,309,311,311.0,Goldenstedt,Commune,Vechta,8307.0,8974.0,9198.0,9840.0,→
+277,310,312,312.0,Gölenkamp,Commune,Grafschaft Bentheim,674.0,633.0,616.0,579.0,→
+278,311,313,313.0,Golmbach,Commune,Holzminden,1076.0,1051.0,983.0,904.0,→
+279,312,314,314.0,Gorleben,Commune,Lüchow-Dannenberg,645.0,636.0,635.0,602.0,→
+280,313,315,315.0,Goslar,City,Goslar,57629.0,55646.0,51591.0,50554.0,→
+281,314,316,316.0,Göttingen,City,Göttingen,126253.0,123822.0,115843.0,118911.0,→
+282,315,317,317.0,Grafhorst,Commune,Helmstedt,999.0,1020.0,1009.0,1048.0,→
+283,316,318,318.0,Grasberg,Commune,Osterholz,6841.0,7650.0,7623.0,7783.0,→
+284,317,319,319.0,Grasleben,Commune,Helmstedt,2490.0,2611.0,2497.0,2391.0,→
+285,318,320,320.0,Grethem,Commune,Heidekreis,638.0,672.0,671.0,627.0,→
+286,319,322,322.0,Groß Berßen,Commune,Emsland,657.0,703.0,669.0,680.0,→
+287,320,323,323.0,Großefehn,Commune,Aurich,11909.0,12953.0,13530.0,13982.0,→
+288,321,324,324.0,Großenkneten,Commune,Oldenburg,12184.0,13371.0,13575.0,16027.0,→
+289,322,325,325.0,Großenwörden,Commune,Stade,471.0,478.0,463.0,462.0,→
+290,323,326,326.0,Großheide,Commune,Aurich,8353.0,8639.0,8509.0,8597.0,→
+291,324,327,327.0,Groß Ippener,Commune,Oldenburg,1039.0,1149.0,1047.0,978.0,→
+292,325,328,328.0,Groß Meckelsen,Commune,Rotenburg (Wümme),486.0,521.0,482.0,500.0,→
+293,326,329,329.0,Groß Oesingen,Commune,Gifhorn,1786.0,2006.0,1925.0,1919.0,→
+294,327,330,330.0,Groß Twülpstedt,Commune,Helmstedt,2655.0,2725.0,2558.0,2610.0,→
+295,328,331,331.0,Grünendeich,Commune,Stade,2037.0,2052.0,1888.0,1892.0,→
+296,329,332,332.0,Guderhandviertel,Commune,Stade,1271.0,1265.0,1140.0,1094.0,→
+297,330,333,333.0,Gusborn,Commune,Lüchow-Dannenberg,1285.0,1281.0,1230.0,1196.0,→
+298,331,334,334.0,Gyhum,Commune,Rotenburg (Wümme),2149.0,2377.0,2283.0,2360.0,→
+299,332,335,335.0,Hademstorf,Commune,Heidekreis,806.0,854.0,850.0,866.0,→
+300,333,336,336.0,Hage,Small Town,Aurich,5545.0,5846.0,6062.0,6272.0,→
+301,334,337,337.0,Hagen am Teutoburger Wald,Commune,Osnabrück,13958.0,14160.0,13722.0,13475.0,→
+302,335,338,338.0,Hagenburg,Small Town,Schaumburg,3874.0,4489.0,4523.0,4569.0,→
+303,336,339,339.0,Hagen im Bremischen,Commune,Cuxhaven,10025.0,10845.0,11073.0,10947.0,→
+304,337,340,340.0,Hagermarsch,Commune,Aurich,602.0,490.0,421.0,431.0,→
+305,338,341,341.0,Hahausen,Commune,Goslar,983.0,957.0,822.0,754.0,→
+306,339,342,342.0,Halbemond,Commune,Aurich,899.0,1047.0,976.0,1005.0,→
+307,342,345,345.0,Halvesbostel,Commune,Harburg,634.0,714.0,736.0,751.0,→
+308,343,346,346.0,Hambergen,Commune,Osterholz,5060.0,5386.0,5725.0,5637.0,→
+309,344,347,347.0,Hambühren,Commune,Celle,9006.0,9958.0,10040.0,10422.0,→
+310,345,348,348.0,Hämelhausen,Commune,Nienburg (Weser),574.0,573.0,567.0,589.0,→
+311,346,349,349.0,Hameln,City,Hameln-Pyrmont,58781.0,59052.0,56756.0,57434.0,→
+312,347,350,350.0,Hamersen,Commune,Rotenburg (Wümme),433.0,472.0,459.0,465.0,→
+313,348,351,351.0,Hammah,Commune,Stade,2542.0,2765.0,2833.0,3124.0,→
+314,349,352,352.0,Handeloh,Commune,Harburg,2111.0,2424.0,2402.0,2539.0,→
+315,350,353,353.0,Handorf,Commune,Lüneburg,1543.0,1947.0,1950.0,2108.0,→
+316,351,354,354.0,Handrup,Commune,Emsland,840.0,874.0,871.0,818.0,→
+317,352,355,355.0,Hankensbüttel,Commune,Gifhorn,4349.0,4508.0,4345.0,4520.0,→
+318,354,357,357.0,Hannover,City,Region Hannover,523147.0,516415.0,506416.0,536925.0,→
+319,355,358,358.0,Hanstedt,Commune,Harburg,4529.0,4605.0,5238.0,5759.0,→
+320,356,359,359.0,Hanstedt,Commune,Uelzen,951.0,1036.0,938.0,918.0,→
+321,357,360,360.0,Hardegsen,City,Northeim,8314.0,8562.0,8029.0,7612.0,→
+322,359,362,362.0,Harmstorf,Commune,Harburg,734.0,893.0,907.0,821.0,→
+323,360,363,363.0,Harpstedt,Small Town,Oldenburg,4103.0,4445.0,4726.0,4727.0,→
+324,361,364,364.0,Harsefeld,Small Town,Stade,10355.0,12094.0,12136.0,13894.0,→
+325,362,365,365.0,Harsum,Commune,Hildesheim,11117.0,12075.0,11703.0,11379.0,→
+326,363,366,366.0,Hasbergen,Commune,Osnabrück,10494.0,10885.0,10963.0,11016.0,→
+327,364,367,367.0,Haselünne,City,Emsland,11783.0,12458.0,12267.0,13029.0,→
+328,365,368,368.0,Haßbergen,Commune,Nienburg (Weser),1439.0,1602.0,1612.0,1571.0,→
+329,366,369,369.0,Hassel,Commune,Nienburg (Weser),1820.0,1835.0,1849.0,1764.0,→
+330,367,370,370.0,Hassendorf,Commune,Rotenburg (Wümme),991.0,1141.0,1137.0,1160.0,→
+331,368,371,371.0,Haste,Commune,Schaumburg,2484.0,2572.0,2786.0,2706.0,→
+332,370,373,373.0,Hattorf am Harz,Commune,Göttingen,4362.0,4505.0,4218.0,4004.0,→
+333,371,374,374.0,Häuslingen,Commune,Heidekreis,913.0,867.0,839.0,775.0,→
+334,372,375,375.0,Haverlah,Commune,Wolfenbüttel,1532.0,1716.0,1627.0,1610.0,→
+335,373,376,376.0,Hechthausen,Commune,Cuxhaven,3456.0,3543.0,3466.0,3453.0,→
+336,374,377,377.0,Hedeper,Commune,Wolfenbüttel,638.0,590.0,513.0,492.0,→
+337,375,378,378.0,Heede,Commune,Emsland,2035.0,2176.0,2331.0,2523.0,→
+338,376,379,379.0,Heemsen,Commune,Nienburg (Weser),1587.0,1700.0,1750.0,1729.0,→
+339,377,380,380.0,Heere,Commune,Wolfenbüttel,1100.0,1218.0,1198.0,1078.0,→
+340,378,381,381.0,Heeslingen,Commune,Rotenburg (Wümme),4303.0,4788.0,4635.0,4832.0,→
+341,379,382,382.0,Heeßen,Commune,Schaumburg,1558.0,1564.0,1402.0,1422.0,→
+342,382,385,385.0,Heinade,Commune,Holzminden,1095.0,1087.0,945.0,849.0,→
+343,383,386,386.0,Heinbockel,Commune,Stade,1079.0,1549.0,1485.0,1373.0,→
+344,385,388,388.0,Heinsen,Commune,Holzminden,1042.0,988.0,849.0,765.0,→
+345,386,389,389.0,Hellwege,Commune,Rotenburg (Wümme),955.0,1038.0,1052.0,1090.0,→
+346,387,390,390.0,Helmstedt,City,Helmstedt,30532.0,29145.0,25941.0,25712.0,→
+347,388,391,391.0,Helpsen,Commune,Schaumburg,1973.0,2042.0,1995.0,1921.0,→
+348,389,392,392.0,Helvesiek,Commune,Rotenburg (Wümme),685.0,823.0,741.0,818.0,→
+349,390,393,393.0,Hemmingen,City,Region Hannover,16608.0,18196.0,18406.0,18974.0,→
+350,391,394,394.0,Hemmoor,City,Cuxhaven,8213.0,8766.0,8814.0,8663.0,→
+351,392,395,395.0,Hemsbünde,Commune,Rotenburg (Wümme),1078.0,1232.0,1151.0,1142.0,→
+352,393,396,396.0,Hemslingen,Commune,Rotenburg (Wümme),1381.0,1581.0,1427.0,1429.0,→
+353,394,397,397.0,Hemsloh,Commune,Diepholz,630.0,623.0,550.0,540.0,→
+354,395,398,398.0,Hepstedt,Commune,Rotenburg (Wümme),834.0,1062.0,1016.0,978.0,→
+355,396,399,399.0,Herzberg am Harz,City,Göttingen,16325.0,15261.0,13497.0,12837.0,→
+356,397,400,400.0,Herzlake,Commune,Emsland,3756.0,3975.0,4304.0,4533.0,→
+357,398,401,401.0,Hesel,Commune,Leer,3553.0,4015.0,4389.0,4553.0,→
+358,399,402,402.0,Hespe,Commune,Schaumburg,1747.0,2149.0,2125.0,2055.0,→
+359,400,403,403.0,Hessisch Oldendorf,City,Hameln-Pyrmont,20125.0,19969.0,18504.0,18112.0,→
+360,401,404,404.0,Heuerßen,Commune,Schaumburg,1030.0,1018.0,976.0,885.0,→
+361,402,405,405.0,Heyen,Commune,Holzminden,592.0,555.0,468.0,458.0,→
+362,403,406,406.0,Hildesheim,City,Hildesheim,106101.0,103717.0,99554.0,101693.0,→
+363,404,407,407.0,Hilgermissen,Commune,Nienburg (Weser),2130.0,2237.0,2092.0,2158.0,→
+364,405,408,408.0,Hilkenbrook,Commune,Emsland,731.0,778.0,838.0,773.0,→
+365,406,409,409.0,Hillerse,Commune,Gifhorn,2291.0,2493.0,2525.0,2493.0,→
+366,407,410,410.0,Hilter am Teutoburger Wald,Commune,Osnabrück,9640.0,10104.0,10193.0,10388.0,→
+367,408,411,411.0,Himbergen,Commune,Uelzen,1705.0,1842.0,1770.0,1679.0,→
+368,409,412,412.0,Himmelpforten,Commune,Stade,4337.0,4739.0,4941.0,5499.0,→
+369,410,413,413.0,Hinte,Commune,Aurich,7242.0,7337.0,6974.0,7106.0,→
+370,411,414,414.0,Hipstedt,Commune,Rotenburg (Wümme),1206.0,1313.0,1265.0,1234.0,→
+371,412,415,415.0,Hittbergen,Commune,Lüneburg,767.0,825.0,925.0,892.0,→
+372,413,416,416.0,Hitzacker,City,Lüchow-Dannenberg,5037.0,5090.0,4989.0,4936.0,→
+373,414,417,417.0,Hodenhagen,Commune,Heidekreis,2495.0,2891.0,3179.0,3177.0,→
+374,415,418,418.0,Höhbeck,Commune,Lüchow-Dannenberg,774.0,752.0,654.0,647.0,→
+375,416,419,419.0,Hohenhameln,Commune,Peine,9220.0,9719.0,9046.0,9286.0,→
+376,417,420,420.0,Hohne,Commune,Celle,1818.0,1800.0,1703.0,1685.0,→
+377,418,421,421.0,Hohnhorst,Commune,Schaumburg,2179.0,2264.0,2032.0,2088.0,→
+378,419,422,422.0,Hohnstorf ,Commune,Lüneburg,2129.0,2454.0,2422.0,2397.0,→
+379,420,423,423.0,Holdorf,Commune,Vechta,6043.0,6416.0,6538.0,7332.0,→
+380,421,424,424.0,Holenberg,Commune,Holzminden,511.0,496.0,441.0,405.0,→
+381,422,425,425.0,Holle,Commune,Hildesheim,6715.0,7109.0,7259.0,6936.0,→
+382,423,426,426.0,Hollenstedt,Commune,Harburg,2625.0,2921.0,3385.0,3828.0,→
+383,424,427,427.0,Hollern-Twielenfleth,Commune,Stade,3091.0,3372.0,3338.0,3333.0,→
+384,425,428,428.0,Hollnseth,Commune,Cuxhaven,866.0,922.0,904.0,868.0,→
+385,426,429,429.0,Holste,Commune,Osterholz,1035.0,1275.0,1302.0,1397.0,→
+386,427,430,430.0,Holtgast,Commune,Wittmund,1538.0,1680.0,1755.0,1782.0,→
+387,428,431,431.0,Holtland,Commune,Leer,2231.0,2232.0,2223.0,2233.0,→
+388,429,432,432.0,Holzen,Commune,Holzminden,726.0,711.0,630.0,527.0,→
+389,430,433,433.0,Holzminden,City,Holzminden,22078.0,21320.0,20217.0,19841.0,→
+390,431,434,434.0,Hoogstede,Commune,Grafschaft Bentheim,2775.0,2851.0,2895.0,2844.0,→
+391,432,435,435.0,Hörden am Harz,Commune,Göttingen,1124.0,1169.0,1060.0,944.0,→
+392,433,436,436.0,Horneburg,Small Town,Stade,5646.0,5606.0,5709.0,6257.0,→
+393,436,439,439.0,Hoyerhagen,Commune,Nienburg (Weser),905.0,1007.0,1026.0,980.0,→
+394,437,440,440.0,Hüde,Commune,Diepholz,970.0,1029.0,1044.0,1220.0,→
+395,439,442,442.0,Hülsede,Commune,Schaumburg,1043.0,1083.0,1042.0,1054.0,→
+396,441,444,444.0,Hüven,Commune,Emsland,537.0,556.0,549.0,542.0,→
+397,442,445,445.0,Ihlienworth,Commune,Cuxhaven,1902.0,1782.0,1632.0,1524.0,→
+398,443,446,446.0,Ihlow,Commune,Aurich,11241.0,12358.0,12164.0,12467.0,→
+399,444,447,447.0,Ilsede,Commune,Peine,22258.0,23090.0,21700.0,21738.0,→
+400,445,448,448.0,Isenbüttel,Commune,Gifhorn,5862.0,6238.0,6300.0,6420.0,→
+401,446,449,449.0,Isernhagen,Commune,Region Hannover,21979.0,22496.0,22777.0,24315.0,→
+402,447,450,450.0,Isterberg,Commune,Grafschaft Bentheim,630.0,630.0,605.0,580.0,→
+403,448,451,451.0,Itterbeck,Commune,Grafschaft Bentheim,1694.0,1758.0,1820.0,1756.0,→
+404,450,453,453.0,Jameln,Commune,Lüchow-Dannenberg,1114.0,1135.0,1072.0,1088.0,→
+405,451,454,454.0,Jelmstorf,Commune,Uelzen,938.0,899.0,782.0,755.0,→
+406,452,455,455.0,Jembke,Commune,Gifhorn,1415.0,1857.0,1868.0,2019.0,→
+407,453,456,456.0,Jemgum,Commune,Leer,3767.0,3720.0,3684.0,3629.0,→
+408,454,457,457.0,Jerxheim,Commune,Helmstedt,1390.0,1320.0,1171.0,1124.0,→
+409,455,458,458.0,Jesteburg,Commune,Harburg,6466.0,7018.0,7510.0,7969.0,→
+410,456,459,459.0,Jever,City,Friesland,13432.0,13889.0,14047.0,14413.0,→
+411,458,461,461.0,Jühnde,Commune,Göttingen,1095.0,1080.0,1043.0,989.0,→
+412,459,462,462.0,Juist,Commune,Aurich,1634.0,1852.0,1539.0,1524.0,→
+413,460,463,463.0,Kakenstorf,Commune,Harburg,1158.0,1323.0,1301.0,1450.0,→
+414,461,465,465.0,Kalefeld,Commune,Northeim,7460.0,7414.0,6747.0,6231.0,→
+415,462,466,466.0,Karwitz,Commune,Lüchow-Dannenberg,772.0,800.0,736.0,732.0,→
+416,463,467,467.0,Katlenburg-Lindau,Commune,Northeim,7551.0,7537.0,7317.0,6975.0,→
+417,464,468,468.0,Kettenkamp,Commune,Osnabrück,1565.0,1718.0,1687.0,1748.0,→
+418,465,469,469.0,Kirchbrak,Commune,Holzminden,1262.0,1194.0,1091.0,983.0,→
+419,467,471,471.0,Kirchgellersen,Commune,Lüneburg,1796.0,2068.0,2236.0,2534.0,→
+420,468,472,472.0,Kirchlinteln,Commune,Verden,9959.0,10481.0,10153.0,9911.0,→
+421,469,473,473.0,Kirchseelte,Commune,Oldenburg,1223.0,1262.0,1147.0,1155.0,→
+422,470,474,474.0,Kirchtimke,Commune,Rotenburg (Wümme),917.0,1016.0,991.0,919.0,→
+423,471,475,475.0,Kirchwalsede,Commune,Rotenburg (Wümme),1212.0,1256.0,1156.0,1176.0,→
+424,472,476,476.0,Kissenbrück,Commune,Wolfenbüttel,1310.0,1737.0,1781.0,1725.0,→
+425,473,477,477.0,Klein Berßen,Commune,Emsland,1042.0,1116.0,1153.0,1152.0,→
+426,474,478,478.0,Klein Meckelsen,Commune,Rotenburg (Wümme),825.0,852.0,896.0,914.0,→
+427,475,479,479.0,Kluse,Commune,Emsland,1440.0,1493.0,1533.0,1700.0,→
+428,476,480,480.0,Kneitlingen,Commune,Wolfenbüttel,853.0,902.0,852.0,806.0,→
+429,477,481,481.0,Königslutter am Elm,City,Helmstedt,16802.0,16570.0,15610.0,15704.0,→
+430,478,482,482.0,Königsmoor,Commune,Harburg,578.0,643.0,638.0,622.0,→
+431,480,484,484.0,Krebeck,Commune,Göttingen,1142.0,1176.0,1094.0,1033.0,→
+432,481,485,485.0,Krummendeich,Commune,Stade,548.0,493.0,505.0,475.0,→
+433,482,486,486.0,Krummhörn,Commune,Aurich,13075.0,13323.0,12601.0,11977.0,→
+434,483,487,487.0,Küsten,Commune,Lüchow-Dannenberg,1377.0,1416.0,1374.0,1361.0,→
+435,484,488,488.0,Kutenholz,Commune,Stade,4511.0,4983.0,4775.0,4622.0,→
+436,485,489,489.0,Laar,Commune,Grafschaft Bentheim,2115.0,2127.0,2157.0,2129.0,→
+437,486,490,490.0,Laatzen,City,Region Hannover,37180.0,38965.0,38877.0,41606.0,→
+438,487,491,491.0,Lachendorf,Commune,Celle,4921.0,5496.0,5919.0,6471.0,→
+439,488,493,493.0,Lähden,Commune,Emsland,4131.0,4327.0,4686.0,4725.0,→
+440,490,495,495.0,Lamspringe,Commune,Hildesheim,6602.0,6460.0,5861.0,5592.0,→
+441,491,496,496.0,Lamstedt,Commune,Cuxhaven,3151.0,3318.0,3266.0,3314.0,→
+442,492,497,497.0,Landesbergen,Commune,Nienburg (Weser),2775.0,2903.0,2773.0,2717.0,→
+443,493,498,498.0,Landolfshausen,Commune,Göttingen,1204.0,1233.0,1106.0,1041.0,→
+444,494,499,499.0,Langelsheim,City,Goslar,13962.0,13513.0,12048.0,11285.0,→
+445,497,502,502.0,Langenhagen,City,Region Hannover,48921.0,49506.0,50821.0,54652.0,→
+446,498,503,503.0,Langeoog,Commune,Wittmund,2100.0,2002.0,1769.0,1817.0,→
+447,499,504,504.0,Langlingen,Commune,Celle,2237.0,2353.0,2253.0,2129.0,→
+448,502,507,507.0,Lathen,Commune,Emsland,5127.0,5740.0,5984.0,6711.0,→
+449,503,508,508.0,Lauenau,Small Town,Schaumburg,3447.0,4074.0,4145.0,4249.0,→
+450,504,509,509.0,Lauenbrück,Commune,Rotenburg (Wümme),1895.0,2041.0,2191.0,2399.0,→
+451,505,510,510.0,Lauenförde,Small Town,Holzminden,2711.0,2708.0,2503.0,2350.0,→
+452,506,511,511.0,Lauenhagen,Commune,Schaumburg,1437.0,1456.0,1377.0,1314.0,→
+453,507,512,512.0,Leer,City,Leer,32622.0,34109.0,34017.0,34786.0,→
+454,508,513,513.0,Leese,Commune,Nienburg (Weser),1803.0,1805.0,1644.0,1672.0,→
+455,509,514,514.0,Leezdorf,Commune,Aurich,1878.0,1957.0,1802.0,1811.0,→
+456,512,517,517.0,Lehrte,City,Region Hannover,42011.0,44200.0,42655.0,44030.0,→
+457,513,518,518.0,Leiferde,Commune,Gifhorn,3940.0,4132.0,4346.0,4388.0,→
+458,514,519,519.0,Lembruch,Commune,Diepholz,1035.0,1023.0,1079.0,1196.0,→
+459,515,520,520.0,Lemförde,Small Town,Diepholz,2583.0,2745.0,3006.0,3333.0,→
+460,516,521,521.0,Lemgow,Commune,Lüchow-Dannenberg,1540.0,1499.0,1394.0,1356.0,→
+461,517,522,522.0,Lemwerder,Commune,Wesermarsch,7246.0,7450.0,6986.0,7122.0,→
+462,518,523,523.0,Lengede,Commune,Peine,11005.0,12435.0,12715.0,13356.0,→
+463,519,524,524.0,Lengenbostel,Commune,Rotenburg (Wümme),417.0,454.0,463.0,454.0,→
+464,520,525,525.0,Lengerich,Commune,Emsland,2547.0,2641.0,2660.0,2713.0,→
+465,521,526,526.0,Lenne,Commune,Holzminden,854.0,748.0,669.0,643.0,→
+466,522,528,528.0,Liebenburg,Commune,Goslar,9803.0,9660.0,8581.0,7793.0,→
+467,523,529,529.0,Lilienthal,Commune,Osterholz,16645.0,17992.0,18026.0,19485.0,→
+468,524,530,530.0,Lindern,Commune,Cloppenburg,4479.0,4628.0,4663.0,4925.0,→
+469,525,531,531.0,Lindhorst,Commune,Schaumburg,4679.0,4708.0,4457.0,4292.0,→
+470,526,532,532.0,Lindwedel,Commune,Heidekreis,1772.0,2285.0,2584.0,2647.0,→
+471,527,533,533.0,Lingen,City,Emsland,52270.0,51362.0,51821.0,54708.0,→
+472,528,534,534.0,Linsburg,Commune,Nienburg (Weser),1003.0,1028.0,922.0,955.0,→
+473,529,535,535.0,Lohheide,Unincorporated Area,Celle,935.0,839.0,803.0,764.0,→
+474,530,536,536.0,Lohne,City,Vechta,22550.0,24907.0,24819.0,26935.0,→
+475,531,537,537.0,Löningen,City,Cloppenburg,12722.0,13026.0,13023.0,13477.0,→
+476,532,538,538.0,Lorup,Commune,Emsland,2893.0,2956.0,3212.0,3171.0,→
+477,533,539,539.0,Loxstedt,Commune,Cuxhaven,15889.0,16624.0,15880.0,16311.0,→
+478,534,540,540.0,Lübberstedt,Commune,Osterholz,682.0,771.0,734.0,737.0,→
+479,536,544,544.0,Lüder,Commune,Uelzen,1257.0,1335.0,1268.0,1272.0,→
+480,537,545,545.0,Lüdersburg,Commune,Lüneburg,502.0,627.0,636.0,642.0,→
+481,538,546,546.0,Lüdersfeld,Commune,Schaumburg,1070.0,1101.0,1045.0,1075.0,→
+482,539,547,547.0,Lüerdissen,Commune,Holzminden,562.0,500.0,442.0,398.0,→
+483,540,548,548.0,Luhden,Commune,Schaumburg,1026.0,1107.0,1058.0,1134.0,→
+484,541,549,549.0,Lüneburg,City,Lüneburg,64558.0,68234.0,69905.0,75711.0,→
+485,542,550,550.0,Lünne,Commune,Emsland,1599.0,1747.0,1827.0,1929.0,→
+486,543,551,551.0,Lütetsburg,Commune,Aurich,664.0,729.0,743.0,719.0,→
+487,544,552,552.0,Lutter am Barenberge,Small Town,Goslar,2541.0,2499.0,2464.0,2302.0,→
+488,545,553,553.0,Maasen,Commune,Diepholz,551.0,555.0,479.0,435.0,→
+489,546,554,554.0,Marienhafe,Small Town,Aurich,1819.0,1962.0,2161.0,2397.0,→
+490,547,555,555.0,Mariental,Commune,Helmstedt,1398.0,1211.0,906.0,888.0,→
+491,548,556,556.0,Marklohe,Commune,Nienburg (Weser),4245.0,4508.0,4494.0,4607.0,→
+492,550,558,558.0,Marschacht,Commune,Harburg,2883.0,3484.0,3707.0,3940.0,→
+493,551,559,559.0,Martfeld,Commune,Diepholz,2610.0,2766.0,2746.0,2801.0,→
+494,552,560,560.0,Marxen,Commune,Harburg,1051.0,1178.0,1361.0,1481.0,→
+495,553,561,561.0,Mechtersen,Commune,Lüneburg,665.0,668.0,650.0,687.0,→
+496,554,562,562.0,Meerbeck,Commune,Schaumburg,2137.0,2140.0,1978.0,1939.0,→
+497,555,563,563.0,Meine,Commune,Gifhorn,7035.0,7881.0,8219.0,8639.0,→
+498,556,564,564.0,Meinersen,Commune,Gifhorn,6755.0,8356.0,8256.0,8140.0,→
+499,559,567,567.0,Mellinghausen,Commune,Diepholz,1053.0,1111.0,1066.0,1040.0,→
+500,560,568,568.0,Menslage,Commune,Osnabrück,2693.0,2616.0,2461.0,2439.0,→
+501,561,569,569.0,Meppen,City,Emsland,32093.0,33764.0,33997.0,35313.0,→
+502,563,571,571.0,Messenkamp,Commune,Schaumburg,832.0,844.0,772.0,747.0,→
+503,564,572,572.0,Messingen,Commune,Emsland,1036.0,1087.0,1088.0,1060.0,→
+504,565,573,573.0,Mittelnkirchen,Commune,Stade,916.0,950.0,989.0,1133.0,→
+505,566,574,574.0,Mittelstenahe,Commune,Cuxhaven,637.0,663.0,632.0,627.0,→
+506,567,575,575.0,Moisburg,Commune,Harburg,1547.0,1764.0,1745.0,1891.0,→
+507,568,576,576.0,Molbergen,Commune,Cloppenburg,6060.0,7248.0,7684.0,8944.0,→
+508,569,577,577.0,Moormerland,Commune,Leer,20726.0,21993.0,22531.0,23567.0,→
+509,570,578,578.0,Moorweg,Commune,Wittmund,880.0,919.0,866.0,858.0,→
+510,571,579,579.0,Moringen,City,Northeim,7369.0,7602.0,7214.0,6955.0,→
+511,574,582,582.0,Nahrendorf,Commune,Lüneburg,1366.0,1396.0,1233.0,1239.0,→
+512,575,583,583.0,Natendorf,Commune,Uelzen,779.0,807.0,807.0,725.0,→
+513,576,584,584.0,Neetze,Commune,Lüneburg,2202.0,2541.0,2620.0,2650.0,→
+514,577,585,585.0,Negenborn,Commune,Holzminden,765.0,815.0,721.0,685.0,→
+515,578,586,586.0,Nenndorf,Commune,Wittmund,583.0,669.0,747.0,754.0,→
+516,579,587,587.0,Neubörger,Commune,Emsland,1475.0,1537.0,1575.0,1546.0,→
+517,580,588,588.0,Neu Darchau,Commune,Lüchow-Dannenberg,1522.0,1520.0,1423.0,1374.0,→
+518,581,589,589.0,Neuenhaus,City,Grafschaft Bentheim,8867.0,9386.0,9863.0,10049.0,→
+519,587,595,595.0,Neuenkirchen-Vörden,Commune,Vechta,7153.0,7947.0,7818.0,8868.0,→
+520,588,596,596.0,Neuharlingersiel,Commune,Wittmund,1129.0,1056.0,1013.0,973.0,→
+521,590,598,598.0,Neukamperfehn,Commune,Leer,1430.0,1562.0,1585.0,1713.0,→
+522,591,599,599.0,Neulehe,Commune,Emsland,657.0,690.0,737.0,798.0,→
+523,592,600,600.0,Neuschoo,Commune,Wittmund,1201.0,1206.0,1156.0,1171.0,→
+524,593,601,601.0,Neustadt am Rübenberge,City,Region Hannover,43299.0,45343.0,43542.0,44386.0,→
+525,594,602,602.0,Neu Wulmstorf,Commune,Harburg,17931.0,20323.0,19903.0,21258.0,→
+526,595,603,603.0,Niederlangen,Commune,Emsland,1070.0,1183.0,1223.0,1261.0,→
+527,596,604,604.0,Niedernwöhren,Commune,Schaumburg,1769.0,1969.0,2000.0,2021.0,→
+528,597,605,605.0,Niemetal,Commune,Göttingen,1525.0,1693.0,1539.0,1500.0,→
+529,598,606,606.0,Nienburg,City,Nienburg (Weser),32688.0,32454.0,30875.0,31448.0,→
+530,600,608,608.0,Nienstädt,Commune,Schaumburg,4693.0,4958.0,4688.0,4450.0,→
+531,601,609,609.0,Norden,City,Aurich,24328.0,24845.0,25102.0,24873.0,→
+532,602,610,610.0,Nordenham,City,Wesermarsch,29314.0,28035.0,26491.0,26139.0,→
+533,603,611,611.0,Norderney,City,Aurich,6261.0,6054.0,5846.0,6090.0,→
+534,604,612,612.0,Nordhorn,City,Grafschaft Bentheim,51269.0,52479.0,52029.0,53711.0,→
+535,605,613,613.0,Nordleda,Commune,Cuxhaven,1143.0,1234.0,1117.0,1053.0,→
+536,606,614,614.0,Nordsehl,Commune,Schaumburg,797.0,863.0,776.0,686.0,→
+537,607,615,615.0,Nordstemmen,Commune,Hildesheim,12536.0,13306.0,12255.0,12027.0,→
+538,608,616,616.0,Nörten-Hardenberg,Small Town,Northeim,8621.0,8560.0,8146.0,8379.0,→
+539,609,617,617.0,Northeim,City,Northeim,32712.0,31432.0,29327.0,29098.0,→
+540,610,618,618.0,Nortmoor,Commune,Leer,1497.0,1610.0,1629.0,1785.0,→
+541,611,619,619.0,Nortrup,Commune,Osnabrück,2708.0,2916.0,2946.0,2986.0,→
+542,612,620,620.0,Nottensdorf,Commune,Stade,1150.0,1315.0,1356.0,1592.0,→
+543,613,621,621.0,Oberlangen,Commune,Emsland,854.0,894.0,951.0,972.0,→
+544,615,623,623.0,Obernfeld,Commune,Göttingen,981.0,1042.0,982.0,925.0,→
+545,616,624,624.0,Obernholz,Commune,Gifhorn,958.0,944.0,918.0,820.0,→
+546,617,625,625.0,Obernkirchen,City,Schaumburg,10549.0,10279.0,9353.0,9206.0,→
+547,618,626,626.0,Ochtersum,Commune,Wittmund,960.0,980.0,920.0,882.0,→
+548,619,627,627.0,Odisheim,Commune,Cuxhaven,621.0,590.0,546.0,473.0,→
+549,620,628,628.0,Oederquart,Commune,Stade,1308.0,1276.0,1127.0,1025.0,→
+550,622,630,630.0,Oetzen,Commune,Uelzen,1391.0,1329.0,1179.0,1143.0,→
+551,623,631,631.0,Ohne,Commune,Grafschaft Bentheim,536.0,567.0,596.0,582.0,→
+552,624,632,632.0,Ohrum,Commune,Wolfenbüttel,666.0,660.0,608.0,626.0,→
+553,625,633,633.0,Oldenburg,County-level City,Oldenburg Stadt,151382.0,155908.0,157267.0,169077.0,→
+554,628,636,636.0,Osloß,Commune,Gifhorn,1768.0,1956.0,1896.0,1909.0,→
+555,629,637,637.0,Osnabrück,County-level City,Osnabrück Stadt,168618.0,164195.0,153699.0,165251.0,→
+556,630,638,638.0,Osteel,Commune,Aurich,2380.0,2381.0,2213.0,2162.0,→
+557,631,639,639.0,Osten,Commune,Cuxhaven,1989.0,2040.0,1869.0,1787.0,→
+558,633,641,641.0,Ostercappeln,Commune,Osnabrück,8996.0,9462.0,9439.0,9694.0,→
+559,634,642,642.0,Ostereistedt,Commune,Rotenburg (Wümme),964.0,959.0,935.0,930.0,→
+560,635,643,643.0,Osterheide,Unincorporated Area,Heidekreis,973.0,883.0,667.0,2789.0,→
+561,636,644,644.0,Osterholz-Scharmbeck,City,Osterholz,30501.0,31253.0,30298.0,30256.0,→
+562,637,645,645.0,Osterode am Harz,City,Göttingen,26707.0,25571.0,23141.0,21563.0,→
+563,638,646,646.0,Osterwald,Commune,Grafschaft Bentheim,1207.0,1212.0,1178.0,1192.0,→
+564,639,647,647.0,Ostrhauderfehn,Commune,Leer,9792.0,10534.0,10474.0,11318.0,→
+565,640,648,648.0,Ottenstein,Small Town,Holzminden,1373.0,1332.0,1194.0,1170.0,→
+566,642,650,650.0,Otterndorf,City,Cuxhaven,6244.0,6894.0,7089.0,7311.0,→
+567,643,651,651.0,Ottersberg,Small Town,Verden,11354.0,12108.0,12204.0,12957.0,→
+568,644,652,652.0,Ovelgönne,Commune,Wesermarsch,5679.0,5667.0,5582.0,5176.0,→
+569,645,653,653.0,Oyten,Commune,Verden,14491.0,15195.0,15292.0,15863.0,→
+570,646,654,654.0,Papenburg,City,Emsland,33624.0,34266.0,35060.0,37766.0,→
+571,647,655,655.0,Parsau,Commune,Gifhorn,1845.0,1980.0,1845.0,1869.0,→
+572,648,656,656.0,Pattensen,City,Region Hannover,13011.0,13337.0,13733.0,14542.0,→
+573,649,657,657.0,Pegestorf,Commune,Holzminden,576.0,533.0,408.0,374.0,→
+574,650,658,658.0,Peine,City,Peine,49024.0,49499.0,48582.0,49990.0,→
+575,651,659,659.0,Pennigsehl,Commune,Nienburg (Weser),1234.0,1343.0,1322.0,1227.0,→
+576,652,660,660.0,Pohle,Commune,Schaumburg,883.0,939.0,874.0,869.0,→
+577,653,661,661.0,Polle,Small Town,Holzminden,1364.0,1285.0,1221.0,1184.0,→
+578,654,662,662.0,Pollhagen,Commune,Schaumburg,1299.0,1265.0,1172.0,1073.0,→
+579,655,663,663.0,Prezelle,Commune,Lüchow-Dannenberg,567.0,565.0,486.0,435.0,→
+580,656,664,664.0,Prinzhöfte,Commune,Oldenburg,694.0,744.0,717.0,651.0,→
+581,657,665,665.0,Quakenbrück,City,Osnabrück,12290.0,12601.0,12224.0,13442.0,→
+582,658,666,666.0,Quendorf,Commune,Grafschaft Bentheim,523.0,541.0,560.0,598.0,→
+583,659,667,667.0,Querenhorst,Commune,Helmstedt,515.0,547.0,530.0,478.0,→
+584,660,668,668.0,Quernheim,Commune,Diepholz,436.0,470.0,418.0,466.0,→
+585,661,669,669.0,Räbke,Commune,Helmstedt,670.0,707.0,680.0,702.0,→
+586,662,670,670.0,Radbruch,Commune,Lüneburg,1605.0,1706.0,1949.0,2217.0,→
+587,663,671,671.0,Raddestorf,Commune,Nienburg (Weser),2126.0,2161.0,1969.0,1816.0,→
+588,664,672,672.0,Rastdorf,Commune,Emsland,911.0,987.0,1013.0,1082.0,→
+589,665,673,673.0,Rastede,Commune,Ammerland,19229.0,19876.0,21028.0,22704.0,→
+590,666,674,674.0,Rätzlingen,Commune,Uelzen,488.0,515.0,491.0,469.0,→
+591,667,675,675.0,Rechtsupweg,Commune,Aurich,1878.0,2092.0,2034.0,2101.0,→
+592,668,676,676.0,Reeßum,Commune,Rotenburg (Wümme),1641.0,1717.0,1667.0,1765.0,→
+593,669,677,677.0,Regesbostel,Commune,Harburg,859.0,1001.0,1069.0,1055.0,→
+594,670,678,678.0,Rehburg-Loccum,City,Nienburg (Weser),10602.0,11075.0,10175.0,10161.0,→
+595,671,679,679.0,Rehden,Commune,Diepholz,1573.0,1757.0,1826.0,2256.0,→
+596,672,680,680.0,Rehlingen,Commune,Lüneburg,671.0,752.0,708.0,737.0,→
+597,673,681,681.0,Reinstorf,Commune,Lüneburg,1254.0,1325.0,1303.0,1277.0,→
+598,674,682,682.0,Remlingen-Semmenstedt,Commune,Wolfenbüttel,2445.0,2736.0,2529.0,2395.0,→
+599,675,683,683.0,Renkenberge,Commune,Emsland,625.0,662.0,693.0,695.0,→
+600,676,684,684.0,Rennau,Commune,Helmstedt,678.0,722.0,698.0,687.0,→
+601,677,685,685.0,Reppenstedt,Commune,Lüneburg,6632.0,6715.0,7196.0,7668.0,→
+602,678,686,686.0,Rethem,City,Heidekreis,2529.0,2491.0,2352.0,2298.0,→
+603,679,687,687.0,Rhade,Commune,Rotenburg (Wümme),1045.0,1128.0,1136.0,1088.0,→
+604,680,688,688.0,Rhauderfehn,Commune,Leer,15459.0,16870.0,17118.0,18212.0,→
+605,682,690,690.0,Rhumspringe,Commune,Göttingen,2074.0,2095.0,1917.0,1771.0,→
+606,683,691,691.0,Ribbesbüttel,Commune,Gifhorn,1890.0,2114.0,2086.0,2093.0,→
+607,684,692,692.0,Riede,Commune,Verden,2466.0,2701.0,2703.0,2821.0,→
+608,685,693,693.0,Rieste,Commune,Osnabrück,2591.0,3071.0,3262.0,3578.0,→
+609,687,695,695.0,Rinteln,City,Schaumburg,28380.0,28383.0,25791.0,25424.0,→
+610,688,696,696.0,Ritterhude,Commune,Osterholz,13382.0,13871.0,14461.0,14684.0,→
+611,689,697,697.0,Rodenberg,City,Schaumburg,5650.0,6142.0,6348.0,6596.0,→
+612,690,698,698.0,Rodewald,Commune,Nienburg (Weser),2588.0,2731.0,2572.0,2537.0,→
+613,691,699,699.0,Rohrsen,Commune,Nienburg (Weser),882.0,1064.0,1049.0,1003.0,→
+614,692,700,700.0,Roklum,Commune,Wolfenbüttel,558.0,537.0,465.0,437.0,→
+615,693,701,701.0,Rollshausen,Commune,Göttingen,976.0,1012.0,881.0,853.0,→
+616,694,702,702.0,Römstedt,Commune,Uelzen,843.0,832.0,791.0,784.0,→
+617,695,703,703.0,Ronnenberg,City,Region Hannover,22663.0,23134.0,23145.0,24393.0,→
+618,696,704,704.0,Rosche,Commune,Uelzen,2155.0,2225.0,2103.0,2013.0,→
+619,698,706,706.0,Rosengarten,Commune,Harburg,11536.0,13220.0,12871.0,13672.0,→
+620,699,707,707.0,Rotenburg,City,Rotenburg (Wümme),21202.0,21834.0,21106.0,21956.0,→
+621,700,708,708.0,Rötgesbüttel,Commune,Gifhorn,1501.0,2124.0,2255.0,2372.0,→
+622,701,709,709.0,Rüdershausen,Commune,Göttingen,995.0,956.0,890.0,799.0,→
+623,702,710,710.0,Rühen,Commune,Gifhorn,4093.0,4390.0,4857.0,5798.0,→
+624,703,711,711.0,Rullstorf,Commune,Lüneburg,1411.0,1758.0,1863.0,1881.0,→
+625,704,712,712.0,Sachsenhagen,City,Schaumburg,2014.0,2144.0,2002.0,1996.0,→
+626,705,713,713.0,Salzbergen,Commune,Emsland,6825.0,7256.0,7535.0,7839.0,→
+627,706,714,714.0,Salzgitter,County-level City,Salzgitter,117713.0,111696.0,98895.0,104291.0,→
+628,707,715,715.0,Salzhausen,Commune,Harburg,3822.0,4230.0,4630.0,4870.0,→
+629,708,716,716.0,Salzhemmendorf,Small Town,Hameln-Pyrmont,11181.0,10851.0,9664.0,9136.0,→
+630,709,717,717.0,Samern,Commune,Grafschaft Bentheim,704.0,694.0,696.0,773.0,→
+631,710,718,718.0,Sandbostel,Commune,Rotenburg (Wümme),739.0,775.0,814.0,778.0,→
+632,712,720,720.0,Sarstedt,City,Hildesheim,17873.0,18080.0,18181.0,19391.0,→
+633,713,721,721.0,Sassenburg,Commune,Gifhorn,9045.0,10639.0,10830.0,11894.0,→
+634,714,722,722.0,Saterland,Commune,Cloppenburg,12221.0,12691.0,13060.0,13701.0,→
+635,715,723,723.0,Sauensiek,Commune,Stade,1959.0,2102.0,2292.0,2492.0,→
+636,716,724,724.0,Schapen,Commune,Emsland,2188.0,2407.0,2394.0,2416.0,→
+637,717,725,725.0,Scharnebeck,Commune,Lüneburg,3142.0,3266.0,3307.0,3481.0,→
+638,718,726,726.0,Scheden,Commune,Göttingen,2156.0,2157.0,1958.0,1887.0,→
+639,719,727,727.0,Scheeßel,Commune,Rotenburg (Wümme),11465.0,12654.0,13058.0,12988.0,→
+640,720,728,728.0,Schellerten,Commune,Hildesheim,8644.0,8783.0,8238.0,7901.0,→
+641,721,729,729.0,Schiffdorf,Commune,Cuxhaven,12597.0,14085.0,13716.0,14339.0,→
+642,722,730,730.0,Schladen-Werla,Commune,Wolfenbüttel,9722.0,9777.0,9105.0,8744.0,→
+643,723,731,731.0,Schnackenburg,City,Lüchow-Dannenberg,695.0,673.0,592.0,544.0,→
+644,724,732,732.0,Schnega,Commune,Lüchow-Dannenberg,1601.0,1544.0,1369.0,1302.0,→
+645,725,733,733.0,Schneverdingen,City,Heidekreis,17030.0,18632.0,18759.0,18750.0,→
+646,726,734,734.0,Scholen,Commune,Diepholz,809.0,846.0,818.0,752.0,→
+647,727,735,735.0,Schönewörde,Commune,Gifhorn,925.0,956.0,912.0,917.0,→
+648,728,736,736.0,Schöningen,City,Helmstedt,14767.0,13808.0,11655.0,11212.0,→
+649,729,737,737.0,Schöppenstedt,City,Wolfenbüttel,6068.0,6102.0,5471.0,5477.0,→
+650,730,738,738.0,Schortens,City,Friesland,20837.0,21371.0,20416.0,20381.0,→
+651,731,739,739.0,Schüttorf,City,Grafschaft Bentheim,11845.0,12481.0,12373.0,12876.0,→
+652,732,740,740.0,Schwaförden,Commune,Diepholz,1548.0,1530.0,1529.0,1490.0,→
+653,733,741,741.0,Schwanewede,Commune,Osterholz,17952.0,19514.0,19458.0,20421.0,→
+654,734,742,742.0,Schwarme,Commune,Diepholz,2073.0,2422.0,2483.0,2553.0,→
+655,735,743,743.0,Schwarmstedt,Commune,Heidekreis,4888.0,5078.0,5320.0,5745.0,→
+656,737,745,745.0,Schweringen,Commune,Nienburg (Weser),811.0,865.0,798.0,788.0,→
+657,738,746,746.0,Schwerinsdorf,Commune,Leer,706.0,762.0,724.0,686.0,→
+658,739,747,747.0,Schwienau,Commune,Uelzen,814.0,814.0,723.0,684.0,→
+659,740,748,748.0,Schwülper,Commune,Gifhorn,5675.0,6479.0,6819.0,7293.0,→
+660,742,751,751.0,Seelze,City,Region Hannover,32702.0,33160.0,31827.0,34401.0,→
+661,743,752,752.0,Seesen,City,Goslar,22574.0,22431.0,19883.0,19240.0,→
+662,744,753,753.0,Seevetal,Commune,Harburg,38383.0,40819.0,39838.0,41591.0,→
+663,745,754,754.0,Seggebruch,Commune,Schaumburg,1235.0,1497.0,1522.0,1552.0,→
+664,747,756,756.0,Sehnde,City,Region Hannover,18622.0,21123.0,23012.0,23384.0,→
+665,748,757,757.0,Selsingen,Commune,Rotenburg (Wümme),3116.0,3287.0,3522.0,3601.0,→
+666,749,758,758.0,Seulingen,Commune,Göttingen,1387.0,1454.0,1381.0,1346.0,→
+667,750,759,759.0,Sibbesse,Commune,Hildesheim,6508.0,6664.0,6196.0,5742.0,→
+668,751,760,760.0,Sickte,Commune,Wolfenbüttel,5080.0,5723.0,5882.0,6118.0,→
+669,752,761,761.0,Siedenburg,Small Town,Diepholz,1259.0,1322.0,1278.0,1265.0,→
+670,753,762,762.0,Sittensen,Commune,Rotenburg (Wümme),5238.0,5494.0,5609.0,5968.0,→
+671,754,763,763.0,Soderstorf,Commune,Lüneburg,1280.0,1457.0,1469.0,1470.0,→
+672,755,764,764.0,Sögel,Commune,Emsland,6154.0,6586.0,6757.0,8029.0,→
+673,756,765,765.0,Söhlde,Commune,Hildesheim,8256.0,8373.0,7902.0,7762.0,→
+674,758,767,767.0,Soltau,City,Heidekreis,21040.0,21926.0,21241.0,21268.0,→
+675,759,768,768.0,Soltendieck,Commune,Uelzen,1142.0,1034.0,1028.0,978.0,→
+676,760,769,769.0,Sottrum,Commune,Rotenburg (Wümme),5201.0,5911.0,6242.0,6522.0,→
+677,761,770,770.0,Spahnharrenstätte,Commune,Emsland,1349.0,1410.0,1430.0,1546.0,→
+678,762,771,771.0,Spelle,Commune,Emsland,7051.0,7948.0,8555.0,9545.0,→
+679,763,772,772.0,Spiekeroog,Commune,Wittmund,725.0,754.0,791.0,809.0,→
+680,764,773,773.0,Sprakensehl,Commune,Gifhorn,1344.0,1393.0,1266.0,1211.0,→
+681,765,774,774.0,Springe,City,Region Hannover,29875.0,29907.0,28575.0,29013.0,→
+682,766,775,775.0,Stade,City,Stade,45087.0,45152.0,45141.0,47703.0,→
+683,767,776,776.0,Stadland,Commune,Wesermarsch,7809.0,7940.0,7592.0,7404.0,→
+684,768,777,777.0,Stadthagen,City,Schaumburg,23566.0,23767.0,21604.0,22262.0,→
+685,769,778,778.0,Stadtoldendorf,City,Holzminden,6457.0,6266.0,5660.0,5697.0,→
+686,770,779,779.0,Staffhorst,Commune,Diepholz,589.0,595.0,549.0,499.0,→
+687,772,781,781.0,Stavern,Commune,Emsland,1073.0,1075.0,1069.0,1064.0,→
+688,773,782,782.0,Stedesdorf,Commune,Wittmund,1558.0,1668.0,1567.0,1639.0,→
+689,774,783,783.0,Steimbke,Commune,Nienburg (Weser),2359.0,2493.0,2511.0,2499.0,→
+690,775,784,784.0,Steinau,Commune,Cuxhaven,1006.0,980.0,883.0,825.0,→
+691,776,785,785.0,Steinfeld (Oldenburg),Commune,Vechta,8466.0,9185.0,9574.0,10240.0,→
+692,777,786,786.0,Steinhorst,Commune,Gifhorn,1535.0,1468.0,1310.0,1235.0,→
+693,778,787,787.0,Steinkirchen,Commune,Stade,1727.0,1693.0,1626.0,1753.0,→
+694,779,788,788.0,Stelle,Commune,Harburg,9896.0,10996.0,10850.0,11305.0,→
+695,780,789,789.0,Stemmen,Commune,Rotenburg (Wümme),794.0,883.0,884.0,826.0,→
+696,781,790,790.0,Stemshorn,Commune,Diepholz,648.0,734.0,652.0,685.0,→
+697,782,791,791.0,Steyerberg,Small Town,Nienburg (Weser),5551.0,5355.0,5341.0,5191.0,→
+698,783,792,792.0,Stinstedt,Commune,Cuxhaven,605.0,573.0,577.0,557.0,→
+699,784,793,793.0,Stöckse,Commune,Nienburg (Weser),1411.0,1435.0,1336.0,1248.0,→
+700,786,795,795.0,Stolzenau,Commune,Nienburg (Weser),7207.0,7645.0,7476.0,7468.0,→
+701,787,796,796.0,Stuhr,Commune,Diepholz,28733.0,31323.0,32382.0,33611.0,→
+702,788,797,797.0,Südbrookmerland,Commune,Aurich,17132.0,18756.0,18593.0,18319.0,→
+703,789,798,798.0,Suderburg,Commune,Uelzen,4599.0,4685.0,4609.0,4588.0,→
+704,790,799,799.0,Südergellersen,Commune,Lüneburg,1311.0,1474.0,1586.0,1835.0,→
+705,791,800,800.0,Südheide,Commune,Celle,12963.0,12810.0,11851.0,11594.0,→
+706,792,801,801.0,Sudwalde,Commune,Diepholz,1072.0,1064.0,1059.0,1034.0,→
+707,793,802,802.0,Suhlendorf,Commune,Uelzen,2653.0,2725.0,2584.0,2391.0,→
+708,794,803,803.0,Sulingen,City,Diepholz,12543.0,12679.0,12521.0,12778.0,→
+709,795,804,804.0,Süpplingen,Commune,Helmstedt,2103.0,1919.0,1685.0,1716.0,→
+710,796,805,805.0,Süpplingenburg,Commune,Helmstedt,712.0,713.0,649.0,641.0,→
+711,797,806,806.0,Surwold,Commune,Emsland,4044.0,4374.0,4282.0,4265.0,→
+712,798,807,807.0,Sustrum,Commune,Emsland,1101.0,1216.0,1337.0,1373.0,→
+713,799,808,808.0,Suthfeld,Commune,Schaumburg,1452.0,1451.0,1481.0,1499.0,→
+714,800,809,809.0,Syke,City,Diepholz,23014.0,23657.0,23641.0,24295.0,→
+715,801,810,810.0,Tappenbeck,Commune,Gifhorn,788.0,1198.0,1355.0,1420.0,→
+716,802,811,811.0,Tarmstedt,Commune,Rotenburg (Wümme),3068.0,3532.0,3716.0,3835.0,→
+717,803,812,812.0,Tespe,Commune,Harburg,3756.0,3961.0,4041.0,4717.0,→
+718,804,813,813.0,Thedinghausen,Commune,Verden,6533.0,7398.0,7680.0,8162.0,→
+719,806,815,815.0,Thuine,Commune,Emsland,1899.0,1951.0,1791.0,1775.0,→
+720,807,816,816.0,Tiddische,Commune,Gifhorn,1139.0,1188.0,1260.0,1261.0,→
+721,808,817,817.0,Tiste,Commune,Rotenburg (Wümme),779.0,864.0,863.0,888.0,→
+722,809,818,818.0,Toppenstedt,Commune,Harburg,1986.0,2108.0,2121.0,2146.0,→
+723,810,819,819.0,Tostedt,Commune,Harburg,12415.0,13332.0,13132.0,13818.0,→
+724,811,820,820.0,Tosterglope,Commune,Lüneburg,623.0,671.0,563.0,596.0,→
+725,812,821,821.0,Trebel,Commune,Lüchow-Dannenberg,1050.0,1036.0,938.0,976.0,→
+726,813,822,822.0,Tülau,Commune,Gifhorn,1428.0,1429.0,1521.0,1412.0,→
+727,814,823,823.0,Twist,Commune,Emsland,9132.0,9474.0,9613.0,9605.0,→
+728,815,824,824.0,Twistringen,City,Diepholz,12034.0,12459.0,12239.0,12367.0,→
+729,816,825,825.0,Uchte,Small Town,Nienburg (Weser),4992.0,5091.0,5414.0,4999.0,→
+730,817,826,826.0,Uehrde,Commune,Wolfenbüttel,1109.0,1096.0,922.0,890.0,→
+731,818,827,827.0,Uelsen,Commune,Grafschaft Bentheim,4499.0,4871.0,5472.0,5687.0,→
+732,819,828,828.0,Uelzen,City,Uelzen,35526.0,35215.0,33606.0,33536.0,→
+733,820,829,829.0,Uetze,Commune,Region Hannover,18711.0,19854.0,19923.0,20276.0,→
+734,821,830,830.0,Ummern,Commune,Gifhorn,1224.0,1549.0,1571.0,1545.0,→
+735,822,831,831.0,Undeloh,Commune,Harburg,819.0,876.0,949.0,1005.0,→
+736,823,832,832.0,Upgant-Schott,Commune,Aurich,3377.0,3748.0,3762.0,3782.0,→
+737,824,833,833.0,Uplengen,Commune,Leer,10485.0,11097.0,11283.0,11817.0,→
+738,825,834,834.0,Uslar,City,Northeim,17109.0,16210.0,14787.0,14115.0,→
+739,826,835,835.0,Utarp,Commune,Wittmund,533.0,636.0,634.0,673.0,→
+740,827,836,836.0,Vahlberg,Commune,Wolfenbüttel,910.0,880.0,773.0,695.0,→
+741,828,837,837.0,Vahlbruch,Commune,Holzminden,601.0,529.0,426.0,415.0,→
+742,829,838,838.0,Vahlde,Commune,Rotenburg (Wümme),667.0,718.0,660.0,679.0,→
+743,830,839,839.0,Varel,City,Friesland,24527.0,24891.0,23795.0,24017.0,→
+744,831,840,840.0,Varrel,Commune,Diepholz,1439.0,1419.0,1657.0,1514.0,→
+745,832,841,841.0,Vastorf,Commune,Lüneburg,843.0,941.0,822.0,825.0,→
+746,833,842,842.0,Vechelde,Commune,Peine,15005.0,16189.0,15995.0,17584.0,→
+747,834,843,843.0,Vechta,City,Vechta,25660.0,28319.0,30319.0,32863.0,→
+748,835,844,844.0,Velpke,Commune,Helmstedt,4163.0,4477.0,4642.0,4854.0,→
+749,836,845,845.0,Veltheim,Commune,Wolfenbüttel,945.0,1071.0,971.0,985.0,→
+750,837,846,846.0,Verden,City,Verden,26774.0,26861.0,26664.0,27706.0,→
+751,839,848,848.0,Vierhöfen,Commune,Harburg,878.0,889.0,991.0,962.0,→
+752,840,849,849.0,Visbek,Commune,Vechta,8908.0,9070.0,9267.0,9925.0,→
+753,841,850,850.0,Visselhövede,City,Rotenburg (Wümme),10559.0,10790.0,10151.0,9598.0,→
+754,842,851,851.0,Vögelsen,Commune,Lüneburg,2016.0,2182.0,2249.0,2347.0,→
+755,843,852,852.0,Vollersode,Commune,Osterholz,2982.0,3120.0,2944.0,2842.0,→
+756,844,853,853.0,Voltlage,Commune,Osnabrück,1739.0,1822.0,1784.0,1750.0,→
+757,845,854,854.0,Vordorf,Commune,Gifhorn,3027.0,3351.0,3105.0,3115.0,→
+758,847,856,856.0,Vrees,Commune,Emsland,1335.0,1452.0,1645.0,1777.0,→
+759,848,857,857.0,Waake,Commune,Göttingen,1514.0,1476.0,1323.0,1263.0,→
+760,849,858,858.0,Waddeweitz,Commune,Lüchow-Dannenberg,950.0,993.0,910.0,886.0,→
+761,850,859,859.0,Wagenfeld,Commune,Diepholz,7543.0,7307.0,6951.0,7225.0,→
+762,851,860,860.0,Wagenhoff,Commune,Gifhorn,1016.0,1125.0,1131.0,1171.0,→
+763,852,861,861.0,Wahrenholz,Commune,Gifhorn,3181.0,3711.0,3692.0,3691.0,→
+764,853,862,862.0,Walchum,Commune,Emsland,1090.0,1227.0,1466.0,1588.0,→
+765,854,863,863.0,Walkenried,Commune,Göttingen,5884.0,5469.0,4793.0,4297.0,→
+766,855,864,864.0,Wallenhorst,Commune,Osnabrück,22844.0,23405.0,23197.0,23048.0,→
+767,856,865,865.0,Wallmoden,Commune,Goslar,1107.0,1103.0,982.0,916.0,→
+768,857,866,866.0,Walsrode,City,Heidekreis,23623.0,24214.0,23405.0,23041.0,→
+769,858,867,867.0,Wangelnstedt,Commune,Holzminden,739.0,698.0,606.0,555.0,→
+770,859,868,868.0,Wangerland,Commune,Friesland,9854.0,10206.0,9318.0,9182.0,→
+771,860,869,869.0,Wangerooge,Commune,Friesland,1294.0,1163.0,1311.0,1214.0,→
+772,861,870,870.0,Wanna,Commune,Cuxhaven,2352.0,2435.0,2268.0,2228.0,→
+773,862,871,871.0,Warberg,Commune,Helmstedt,934.0,931.0,890.0,821.0,→
+774,863,872,872.0,Wardenburg,Commune,Oldenburg,14612.0,15754.0,15654.0,16138.0,→
+775,864,873,873.0,Warmsen,Commune,Nienburg (Weser),3535.0,3604.0,3415.0,3255.0,→
+776,865,874,874.0,Warpe,Commune,Nienburg (Weser),736.0,776.0,829.0,724.0,→
+777,866,875,875.0,Wasbüttel,Commune,Gifhorn,1689.0,1862.0,1880.0,1785.0,→
+778,867,876,876.0,Wathlingen,Commune,Celle,5921.0,6072.0,6117.0,6154.0,→
+779,868,877,877.0,Wedemark,Commune,Region Hannover,26107.0,28567.0,28223.0,29582.0,→
+780,869,878,878.0,Weener,City,Leer,14909.0,15406.0,15472.0,15946.0,→
+781,870,879,879.0,Wehrbleck,Commune,Diepholz,840.0,903.0,749.0,753.0,→
+782,871,880,880.0,Welle,Commune,Harburg,1046.0,1233.0,1186.0,1198.0,→
+783,872,881,881.0,Wendeburg,Commune,Peine,8705.0,9600.0,9992.0,10412.0,→
+784,873,882,882.0,Wendisch Evern,Commune,Lüneburg,1368.0,1528.0,1765.0,1761.0,→
+785,874,883,883.0,Wennigsen,Commune,Region Hannover,13013.0,13919.0,13913.0,14017.0,→
+786,875,884,884.0,Wenzendorf,Commune,Harburg,1083.0,1197.0,1307.0,1394.0,→
+787,876,885,885.0,Werdum,Commune,Wittmund,667.0,707.0,731.0,746.0,→
+788,877,886,886.0,Werlte,City,Emsland,8362.0,8876.0,9391.0,10149.0,→
+789,878,887,887.0,Werpeloh,Commune,Emsland,1017.0,1088.0,1059.0,1095.0,→
+790,879,888,888.0,Wesendorf,Commune,Gifhorn,4552.0,4829.0,4984.0,5378.0,→
+791,880,889,889.0,Weste,Commune,Uelzen,988.0,1031.0,1008.0,945.0,→
+792,881,890,890.0,Westergellersen,Commune,Lüneburg,1212.0,1663.0,1753.0,2258.0,→
+793,882,892,892.0,Westerstede,City,Ammerland,20735.0,21521.0,21941.0,22952.0,→
+794,883,893,893.0,Westertimke,Commune,Rotenburg (Wümme),671.0,643.0,476.0,431.0,→
+795,884,894,894.0,Westerwalsede,Commune,Rotenburg (Wümme),752.0,803.0,715.0,723.0,→
+796,885,895,895.0,Westoverledingen,Commune,Leer,18139.0,19731.0,19710.0,21210.0,→
+797,886,896,896.0,Wetschen,Commune,Diepholz,1351.0,1718.0,1699.0,1836.0,→
+798,887,897,897.0,Wettrup,Commune,Emsland,572.0,580.0,557.0,533.0,→
+799,888,898,898.0,Weyhausen,Commune,Gifhorn,2528.0,2568.0,2531.0,2416.0,→
+800,889,899,899.0,Weyhe,Commune,Diepholz,28453.0,30311.0,29918.0,30816.0,→
+801,890,900,900.0,Wiedensahl,Small Town,Schaumburg,1003.0,1042.0,1054.0,930.0,→
+802,891,901,901.0,Wiefelstede,Commune,Ammerland,12208.0,14147.0,15260.0,16162.0,→
+803,893,903,903.0,Wienhausen,Commune,Celle,3810.0,4110.0,4189.0,4077.0,→
+804,894,904,904.0,Wiesmoor,City,Aurich,11834.0,12824.0,12697.0,13236.0,→
+805,895,905,905.0,Wietmarschen,Commune,Grafschaft Bentheim,9161.0,10538.0,11385.0,12336.0,→
+806,896,906,906.0,Wietze,Commune,Celle,7616.0,8195.0,8044.0,8360.0,→
+807,897,907,907.0,Wietzen,Commune,Nienburg (Weser),2218.0,2244.0,2174.0,2137.0,→
+808,898,908,908.0,Wietzendorf,Commune,Heidekreis,3153.0,3889.0,4088.0,4151.0,→
+809,899,909,909.0,Wildeshausen,City,Oldenburg,16192.0,17442.0,18860.0,20129.0,→
+810,900,910,910.0,Wilhelmshaven,County-level City,Wilhelmshaven,90667.0,84994.0,77451.0,76089.0,→
+811,901,911,911.0,Wilstedt,Commune,Rotenburg (Wümme),1547.0,1773.0,1766.0,1750.0,→
+812,902,912,912.0,Wilsum,Commune,Grafschaft Bentheim,1492.0,1579.0,1622.0,1577.0,→
+813,903,913,913.0,Wingst,Commune,Cuxhaven,3670.0,3638.0,3446.0,3320.0,→
+814,904,914,914.0,Winkelsett,Commune,Oldenburg,676.0,665.0,583.0,511.0,→
+815,905,915,915.0,Winnigstedt,Commune,Wolfenbüttel,1045.0,928.0,745.0,701.0,→
+816,906,918,918.0,Wippingen,Commune,Emsland,778.0,830.0,922.0,968.0,→
+817,908,920,920.0,Wischhafen,Commune,Stade,3148.0,3089.0,3063.0,2976.0,→
+818,909,921,921.0,Wistedt,Commune,Harburg,1462.0,1550.0,1631.0,1764.0,→
+819,910,922,922.0,Wittingen,City,Gifhorn,12633.0,12387.0,11707.0,11421.0,→
+820,911,923,923.0,Wittmar,Commune,Wolfenbüttel,1215.0,1307.0,1217.0,1114.0,→
+821,912,924,924.0,Wittmund,City,Wittmund,20827.0,21371.0,20605.0,20313.0,→
+822,913,925,925.0,Wittorf,Commune,Lüneburg,1022.0,1206.0,1469.0,1454.0,→
+823,914,926,926.0,Wohnste,Commune,Rotenburg (Wümme),713.0,783.0,788.0,739.0,→
+824,915,927,927.0,Wolfenbüttel,City,Wolfenbüttel,53686.0,54517.0,51756.0,52165.0,→
+825,916,928,928.0,Wolfsburg,County-level City,Wolfsburg,126331.0,121887.0,119984.0,124371.0,→
+826,917,929,929.0,Wollbrandshausen,Commune,Göttingen,688.0,653.0,660.0,640.0,→
+827,918,930,930.0,Wollershausen,Commune,Göttingen,425.0,471.0,469.0,511.0,→
+828,919,931,931.0,Wölpinghausen,Commune,Schaumburg,1778.0,1812.0,1649.0,1608.0,→
+829,921,934,934.0,Worpswede,Commune,Osterholz,9280.0,9478.0,9219.0,9494.0,→
+830,922,935,935.0,Wrestedt,Commune,Uelzen,7177.0,7148.0,6755.0,6366.0,→
+831,923,936,936.0,Wriedel,Commune,Uelzen,2655.0,2643.0,2426.0,2354.0,→
+832,924,937,937.0,Wulfsen,Commune,Harburg,1378.0,1550.0,1604.0,1751.0,→
+833,925,938,938.0,Wulften am Harz,Commune,Göttingen,1962.0,2075.0,1937.0,1809.0,→
+834,926,939,939.0,Wunstorf,City,Region Hannover,40084.0,41542.0,40633.0,41477.0,→
+835,927,940,940.0,Wurster Nordseeküste,Commune,Cuxhaven,15570.0,17142.0,16962.0,17095.0,→
+836,929,942,942.0,Zernien,Commune,Lüchow-Dannenberg,1580.0,1629.0,1558.0,1629.0,→
+837,930,943,943.0,Zetel,Commune,Friesland,10788.0,11736.0,11691.0,11813.0,→
+838,931,944,944.0,Zeven,City,Rotenburg (Wümme),11763.0,12242.0,13528.0,13822.0,→
